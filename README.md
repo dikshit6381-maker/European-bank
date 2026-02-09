@@ -74,7 +74,6 @@ Salary–balance mismatch detection
 Identification of at-risk premium customers
 
 ![Financial Commitment vs Engagement](charts/financial_commitment_vs_engagement.png)
-
 # Retention Strength Scoring
 
 A composite Relationship Strength Index is created using:
@@ -108,15 +107,19 @@ High-value disengaged customer detector
 
 Retention strength scoring panels
 
-![Streamlit Dashboard](charts/Streamlit_ Dashboard_Preview.png)
+![Streamlit Dashboard](charts/streamlit_dashboard_preview.png)
 
 
 # Deployment
 
 The Streamlit application was deployed using ngrok, enabling secure public access to a locally hosted Streamlit server.
 
+[Customer Engagement & Retention Strategy Dashboard]([url](https://ehtel-enormous-morphemically.ngrok-free.dev/))
+
 Public live dashboard
+
 Reproducible analytics
+
 Portfolio-ready deployment
 
 # Conclusion
