@@ -43,40 +43,49 @@ Reduce silent churn among premium customers
 Customers are segmented into:
 
 Active & Engaged
+
 Active but Low-Product
+
 Inactive & Disengaged
+
 Inactive High-Balance Customers
 
-📊 Engagement vs Churn
+![Engagement vs Churn](charts/engagement_vs_churn.png)
+
 
 
 # Product Utilization Impact
 
 Churn rate by number of products
+
 Single vs multi-product retention comparison
+
 Product depth vs churn trend
 
-📊 Churn Rate by Product Count
+![Product Utilization Impact](charts/product_utilization_churn.png)
 
 
 # Financial Commitment vs Engagement
 
 Balance vs activity cross-analysis
+
 Salary–balance mismatch detection
+
 Identification of at-risk premium customers
 
-📊 High Balance vs Engagement
-
+![Financial Commitment vs Engagement](charts/financial_commitment_vs_engagement.png)
 
 # Retention Strength Scoring
 
 A composite Relationship Strength Index is created using:
+
 Engagement score
+
 Product depth score
+
 Financial commitment indicators
 
-📊 Retention Strength Distribution
-
+![Retention Strength Scoring](charts/retention_strength_scoring.png)
 # Key Performance Indicators (KPIs) 
 
 | KPI Name                         | Description                  |
@@ -92,11 +101,14 @@ Financial commitment indicators
 ## Core Modules
 
 Engagement vs churn overview
+
 Product utilization impact analysis
+
 High-value disengaged customer detector
+
 Retention strength scoring panels
 
-📊 Streamlit Dashboard Preview
+![Streamlit Dashboard](charts/Streamlit_ Dashboard_Preview.png)
 
 
 # Deployment
