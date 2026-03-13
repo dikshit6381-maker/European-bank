@@ -28,3 +28,4 @@ streamlit run app.py
 - Product sweet spot: 2 products = 7.6% churn
 - 2,154 premium inactive customers | EUR 232.9M at risk
 - Best model: Gradient Boosting (AUC = 0.8694)
+
