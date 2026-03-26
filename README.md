@@ -143,7 +143,7 @@ Examples:
 ---
 
 ## 👤 Author
-**Your Name**  
+**Dikshit**  
 Aspiring Data Analyst | Focused on Business Insights & Decision-Making  
 
 ---
