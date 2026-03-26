@@ -119,7 +119,9 @@ Developed key banking KPIs such as:
 ---
 
 ## 📸 Visual Insights
-*(Add screenshots from your notebook here)*  
+
+![European_Bank_Analysis](figures/fig3_product_financial.png)
+
 Examples:
 - Churn distribution charts  
 - Engagement vs churn graphs  
