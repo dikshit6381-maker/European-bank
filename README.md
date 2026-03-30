@@ -146,6 +146,10 @@ Examples:
 **Dikshit**  
 Aspiring Data Analyst | Focused on Business Insights & Decision-Making  
 
+🏢 Organization: Unified Mentor 
+
+🔗 LinkedIn: [Dikshit](https://www.linkedin.com/in/dikshit-05a9a9244/)
+
 ---
 
 ## 🔍 Final Thought
